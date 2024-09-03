@@ -1,1 +1,2 @@
-# about
+# Summary
+Hi, I'm Rajiv Nagar. I’m passionate about full-stack web development, and I enjoy working on projects related to Python, PHP, and JavaScript. I have experience in both frontend technologies like HTML, CSS, and Bootstrap, and backend solutions with Django, Laravel, and database management using MySQL and PostgreSQL. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rajiv-nagar-08071415b) or via [email](uic.17bsc1008@gmail.com).
