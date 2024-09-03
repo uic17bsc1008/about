@@ -6,10 +6,8 @@ Hi, I'm Rajiv Nagar. I’m passionate about full-stack web development, and I en
 # Rajiv Nagar
 
 **Contact Information:**
-- **Phone:** 9161122485, 7908120213
 - **LinkedIn:** [Rajiv Nagar](https://www.linkedin.com/in/rajiv-nagar-08071415b)
 - **Email:** [rajivnagar4@gmail.com](mailto:rajivnagar4@gmail.com)
-- **Location:** Saket, New Delhi
 
 ## Career Objective
 Software developer with 1.5 years of experience in Python, along with strong skills in PHP, Laravel, Django, PostgreSQL, and MySQL. Seeking a role to apply my expertise in developing scalable applications and optimizing database solutions within a collaborative team environment.
